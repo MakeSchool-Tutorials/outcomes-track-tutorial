@@ -2,6 +2,7 @@
 title: "Cover Letters"
 slug: cover-letters
 ---
+
 Let's start with a bold statement
 
 **Your cover letter is not about you**
@@ -13,6 +14,7 @@ Yes. Your cover letter is not about you, it’s about your **fit** with the comp
 The biggest mistake engineers make is _only_ talking about themselves in their cover letter, instead of fit.
 
 # Dating: an analogy for Cover Letters
+
 Here's an analogy to demonstrate why this is a mistake:
 
 Let's say you are about to go on a second date with someone you like. You want to prove that you two would make a great couple. So, you say to your partner, "I am nice, I'm smart, I can cook a good meal and be a good conversationalist." Does that argument demonstrate you two are a good *fit* for each other?
@@ -30,6 +32,7 @@ In other words, it's about **fit**. It's about BOTH OF YOU, not just you.
 Let's take a look at some incredible cover letters and what makes them great.
 
 # Mission FIT: Tying company mission to your personal experience
+
 One way to show fit is to share how *both* you and the company share the *same mission*.
 
 Here's how to demonstrate that you and the company share the same mission:
@@ -73,17 +76,19 @@ You can impress employers by showing that you *understand* the company more than
 
 Here's an example...
 
-Person A's cover letter says:
+**Person A's** cover letter says:
 
-```
-"I'm a huge fan of Lyft. Your service has made my life so much easier of these past years. I love the product so much so that I recruited 10 of my friends on the app. You offer one of the most innovative services on the app store."
-```
+>"I'm a huge fan of Lyft! Your service has made my life so much easier of these past years.
+>
+>I love the product so much so that I recruited 10 of my friends on the app.
+>
+> You offer one of the most innovative services on the app store."
 
-Person B's cover letter says:
+**Person B's** cover letter says:
 
-```
-"I love Lyft's vision, especially with the Jan 14th announcement that the company is working to become a Transportation Think Tank. Also, given your recent round of funding, I'd be even more excited to be part of an evolving and growing work environment at Lyft."
-```
+> "I love Lyft's vision, especially with the Jan 14th announcement that the company is working to become a Transportation Think Tank.
+>
+> Also, given your recent round of funding, I'd be even more excited to be part of an evolving and growing work environment at Lyft."
 
 Who stands out?
 
