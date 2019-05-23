@@ -27,9 +27,9 @@ Now that you've watched the video, it's time to write your own Personal Odyssey.
 
 > [action]
 >
-> Use this [standard structure](assets/personal-odyssey-examples.pdf) to write your Personal Odyssey.
+> Use the standard structure below to write your Personal Odyssey. Check the box once complete.
 >
-> Check the box once complete.
+> ![personal-odyssey-examples](assets/personal-odyssey-examples.pdf)
 
 # Examples
 
