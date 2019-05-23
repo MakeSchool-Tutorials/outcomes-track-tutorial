@@ -29,15 +29,6 @@ In other words, it's about **fit**. It's about BOTH OF YOU, not just you.
 
 Let's take a look at some incredible cover letters and what makes them great.
 
-# Overview
-
-- general structure
-- examples
-- time per templates
-- rubric
-
-I've outlined a few exercises below to help you create your own cover letter templates.
-
 # Mission FIT: Tying company mission to your personal experience
 One way to show fit is to share how *both* you and the company share the *same mission*.
 
