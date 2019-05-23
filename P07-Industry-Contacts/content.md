@@ -54,6 +54,7 @@ How can you tap into these networks?
 > Review these slides on [Messaging to industry contacts](https://docs.google.com/presentation/d/1g4FuBBQIBLJ30eGXD9YsDjK2PaNUnrg6a60ip0WBc6A/edit#slide=id.g40f6408b0c_0_5) and these slides on [How to find anyone's contact information](https://docs.google.com/presentation/d/14xM4JfFusj6rPMX9awvy1I42b12G39ifJjgBrLTRqrY/edit#slide=id.g44bb656f4b_0_24)
 
 These slides will give you:
+
 - template messages
 - tips to connect with anyone
 - hacks to find email addresses
