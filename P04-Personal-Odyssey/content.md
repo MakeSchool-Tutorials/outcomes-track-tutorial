@@ -2,38 +2,62 @@
 title: "Personal Odyssey"
 slug: personal-odyssey
 ---
-Congrats! By now, you've created a high quality resume and LinkedIn - the foundational documents for your job search.
 
-Our next task is to articulate who you are to companies. Specifically, by answering one of the most common question: "Who are you?" or "Tell me about yourself"
+Congrats! By now, you've created a high quality resume and LinkedIn - the foundational documents for your job search!
 
-The way to answer this is by sharing your *personal-odyssey*: your career journey that led you to apply to a given company.
+Our next task is to articulate who you are to companies. Specifically, by answering one of the most common question: **"Who are you?" or "Tell me about yourself".**
+
+The way to answer this is by sharing your **personal-odyssey**: your career journey that led you to apply to a given company.
 
 This question allows you to demonstrate your strengths, motives and attitude towards your career.
 
 Let's take a look at what a Personal Odyssey is, how to prepare one, and what high quality looks like.
 
 # Intro
-What the heck is a Personal Odyssey?
-![ms-video-youtube](https://youtu.be/lUJBZgEYSNs)
 
-Now, write our your Personal Odyssey using the standard structure below. Check the box once complete.
+Alright, that 12 word description may still cause you to ask, what the heck is a Personal Odyssey? Luckily, we've got more resources to show you!
 
-![Alt text](assets/assets/personal-odyssey-examples.pdf "Personal Odyssey Examples")
+> [action]
+>
+> Check out this video to learn more about what a personal odyssey is:
+>
+> ![ms-video-youtube](https://youtu.be/lUJBZgEYSNs)
+
+Now that you've watched the video, it's time to write your own Personal Odyssey.
+
+> [action]
+>
+> Use the standard structure below to write your Personal Odyssey. Check the box once complete.
+>
+> ![personal-odyssey-examples](assets/personal-odyssey-examples.pdf)
 
 # Examples
-How to tailor your Personal Odyssey to companies and roles ...
+
+Check out the below video to see how to tailor your Personal Odyssey to companies and roles:
+
 ![ms-video-youtube](https://youtu.be/SxEED7iwjx8)
 
-Find two different job descriptions that interest you and craft your Personal Odyssey to each.
+> [action]
+>
+> Find two different job descriptions that interest you and craft your Personal Odyssey to each.
 
 # Preparation & FAQs
-Watch this to overcome common challenges to creating your Personal Odyssey
-![ms-video-youtube](https://youtu.be/MmQuid0prdw)
+
+> [action]
+>
+> Watch this to overcome common challenges to creating your Personal Odyssey
+>
+> ![ms-video-youtube](https://youtu.be/MmQuid0prdw)
 
 
 # Share!
-Present your Personal Odyssey to 2-3 peers to get feedback.
+
+> [action]
+>
+> Present your Personal Odyssey to 2-3 peers to get feedback.
 
 The more practice the better. Soon enough, telling your Personal Odyssey will feel easy.
 
-Mark your completion in the course tracker.
+> [action]
+>
+> Mark your completion in the course tracker.
