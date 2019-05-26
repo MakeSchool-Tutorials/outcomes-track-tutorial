@@ -11,7 +11,7 @@ This tutorial will teach you how to create a resume that will stand out of the c
 
 # Resume Template
 
-Our very own Job Outcomes Lead, Jeff D’Andria, hone a resume template while helping hundreds of Stanford students get jobs at startups and major tech companies.
+Our very own Job Outcomes Lead, Jeff D’Andria, honed a resume template while helping hundreds of Stanford students get jobs at startups and major tech companies.
 
 > [action]
 >
