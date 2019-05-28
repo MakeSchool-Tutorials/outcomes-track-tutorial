@@ -21,7 +21,7 @@ Alright, that 12 word description may still cause you to ask, what the heck is a
 >
 > Check out this video to learn more about what a personal odyssey is:
 >
-> ![ms-video-youtube](https://youtu.be/lUJBZgEYSNs)
+> ![ms-video-youtube](https://www.youtube.com/embed/lUJBZgEYSNs)
 
 Now that you've watched the video, it's time to write your own Personal Odyssey.
 
@@ -35,7 +35,7 @@ Now that you've watched the video, it's time to write your own Personal Odyssey.
 
 Check out the below video to see how to tailor your Personal Odyssey to companies and roles:
 
-![ms-video-youtube](https://youtu.be/SxEED7iwjx8)
+![ms-video-youtube](https://www.youtube.com/embed/SxEED7iwjx8)
 
 > [action]
 >
@@ -47,8 +47,7 @@ Check out the below video to see how to tailor your Personal Odyssey to companie
 >
 > Watch this to overcome common challenges to creating your Personal Odyssey
 >
-> ![ms-video-youtube](https://youtu.be/MmQuid0prdw)
-
+> ![ms-video-youtube](https://www.youtube.com/embed/MmQuid0prdw)
 
 # Share!
 

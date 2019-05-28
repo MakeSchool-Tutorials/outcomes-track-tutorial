@@ -17,7 +17,7 @@ Your LinkedIn serves a similar function to resumes, yet has a few unique benefit
 >
 > Watch this video to see exemplar LinkedIn profiles and learn the secrets to creating an amazing LinkedIn:
 >
-> ![ms-video-youtube](https://youtu.be/9lMHxt_762E)
+> ![ms-video-youtube](https://www.youtube.com/embed/9lMHxt_762E)
 
 # LinkedIn draft
 
