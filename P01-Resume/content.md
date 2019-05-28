@@ -23,7 +23,7 @@ Our very own Job Outcomes Lead, Jeff D’Andria, honed a resume template while h
 >
 > Watch this video to see exemplar resumes and learn the secrets to creating a resume that wows employers ...
 >
-> ![ms-video-youtube](https://youtu.be/tXNpz_tOnVU)
+> ![ms-video-youtube](https://www.youtube.com/embed/tXNpz_tOnVU)
 >
 > Improve your resume using the tips outlined in the video above. For reference, here are the [video slides](https://docs.google.com/presentation/u/1/d/1TXO6-VC12iYY1r-48SfgleTjH8xjMy8Ge5JHNmNDDj0/edit?usp=drive_web).
 
