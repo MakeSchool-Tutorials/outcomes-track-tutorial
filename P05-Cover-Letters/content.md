@@ -68,11 +68,9 @@ For these reasons, be sure to reference your experience working in teams and you
 >
 > Write a paragraph summary about why you'd be a good member of any company's engineering team.
 
-# Go Above and beyond
-Below are tips to go above and beyond in your cover letter. These strategies take time, so I'd suggest that you only reserve them for your top reach, match and fallback picks.
+# Research the Company
 
-## Research the Company
-You can impress employers by showing that you *understand* the company more than the typical applicant.
+While finding FIT is important, you can also impress employers by showing that you *understand* the company more than the typical applicant.
 
 Here's an example...
 
@@ -103,17 +101,17 @@ Let's do this together!
 > [action]
 >
 > - (4 min) **Look up recent news about the company:** (examples: recent product launch, announced they are hiring 10,000 people, announced they are going to open a headquarters in Oakland, etc.) If you can work these into the cover letter, it shows a level of seriousness compared to people who don’t do this work.
-> - (1 min) **Company size** - check out Crunchbase or Linkedin. This will give you a sense about the team dynamics. Big companies will have bigger teams and a more formal process. Smaller companies will have more ownership and autonomy.
+> - (1 min) **Company size** - check out the company on [Crunchbase](https://www.crunchbase.com) and [Linkedin](https://linkedin.com). This will give you a sense about the team dynamics, and what level of growth the company is at. Big companies will have bigger teams and a more formal process. Smaller companies will have more ownership and autonomy.
 
 ## Other Ideas for top choice companies
 
-For your #1 priority job - how can you go above and beyond to impress them?
+Now that you've determined FIT and have researched the company, how can you go above and beyond to impress them?
 
-- **Build a product that shows you're committed to the same mission as them.** Use their API, prototype new features, build product that uses their tech stack.
 - **Become an expert in their product:** sign up and use the product yourself, recommend 2-3 improvements, say what they are doing right, what they are doing wrong. Tone is important here: speak as if you are on their team rather than criticizing their product: “one thing you could improve...” "consider changing the ..."
 - **Get connected with current employees at a company for an informational interview.** An **informational interview**, according to the illustrious website Wikipedia, is *a meeting in which a potential job seeker seeks advice on their career, the industry, and the corporate culture of a potential future workplace; while an employed professional learns about the job seeker and judges their professional potential*.
     - You can use the mentorship reach-out skills we've developed over the previous months to schedule an informational interview. In your cover letter, ALWAYS mention if you know and talked to someone at the company - this immediately get's you in the door and will often lead a recruiter to ask that employee their opinion of you.
-- Go to an organization’s open meetups/events (if they have any). Mention that you went to the meetup in your cover letter. It shows that you are proactive and involved.
+- **Go to an organization’s open meetups/events (if they have any).** Mention that you went to the meetup in your cover letter. It shows that you are proactive and involved.
+- **Build a product that shows you're committed to the same mission as them.** Use their API, prototype new features, build product that uses their tech stack.
 
 # Draft a Cover Letter
 
@@ -127,7 +125,7 @@ For your #1 priority job - how can you go above and beyond to impress them?
 >
 > Use this [checklist](https://docs.google.com/document/d/1FD52I6tKofC1zpZyLWmX1BCQw5WDPkmzimvDSK_E_nM/edit#heading=h.o92llmt36ywl) to further improve your cover letter.
 >
-> When you're done, add a link to your cover letter in the tracker
+> When you're done, add a link to your draft cover letter in the tracker
 
 # Conclusion
 
