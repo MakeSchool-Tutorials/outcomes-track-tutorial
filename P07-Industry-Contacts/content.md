@@ -10,6 +10,8 @@ Here are some staggering statistics ....
 
 Silicon Valley hiring is driven by who you know. **You can increase your potential for employment 3x by getting a warm introduction.**
 
+![warm](assets/warm-connection-stats.png)
+
 For this reason it is critical that you start *building your network now* to better position yourself for jobs opportunities.
 
 Past Make School students have regretted not building their network early enough.
@@ -30,16 +32,11 @@ Strangely enough, you may know more people at a company than you think. To expla
 
 Sociologists call people in your immediate circle your **first degree connections**. These are people you interactive with frequently - friends, family, acquaintances.
 
-<!--The average person has X first degree connections.
-
-[image]
--->
-
 The majority of your network is in **second degree connections** - the aggregate amount of people directly connected to your first degree connections.
 
-<!--Sociologists estimate that your number of second degree connections is X times greater than your number of first degree connections.
+Sociologists estimate that your number of second degree connections is X times greater than your number of first degree connections:
 
-[image] -->
+![connections](assets/first-second-degree-connections.png)
 
 If you look through your second degree connections, you may find that you have second degree connections at practically every tech company in the valley - especially when you count the networks of Jeremy & Ashu (YC alums), and all the instructors.
 
