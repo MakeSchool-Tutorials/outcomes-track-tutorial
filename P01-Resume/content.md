@@ -15,7 +15,7 @@ Our very own Job Outcomes Lead, Jeff D’Andria, honed a resume template while h
 
 > [action]
 >
-> Base your resume off this [template](https://docs.google.com/document/u/1/d/17Uyvo4AXdrHsKYFz4w8ceRbwHC_jw73bF37x7pK08Kc/edit).
+> Base your resume off this [template](https://docs.google.com/document/d/1NVwXb59D9o5R_7R9XYAfOJ7HvtxPGsibE2yVdB9q7lo/edit?usp=sharing).
 
 # Quality Resumes
 
