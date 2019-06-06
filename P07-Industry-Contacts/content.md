@@ -48,19 +48,20 @@ How can you tap into these networks?
 
 > [action]
 >
-> Review these slides on [Messaging to industry contacts](https://docs.google.com/presentation/d/1g4FuBBQIBLJ30eGXD9YsDjK2PaNUnrg6a60ip0WBc6A/edit#slide=id.g40f6408b0c_0_5) and these slides on [How to find anyone's contact information](https://docs.google.com/presentation/d/14xM4JfFusj6rPMX9awvy1I42b12G39ifJjgBrLTRqrY/edit#slide=id.g44bb656f4b_0_24)
+> Review these slides on [Messaging to industry contacts](https://docs.google.com/presentation/d/1g4FuBBQIBLJ30eGXD9YsDjK2PaNUnrg6a60ip0WBc6A/edit#slide=id.g40f6408b0c_0_5), these slides on [How to find anyone's contact information](https://docs.google.com/presentation/d/14xM4JfFusj6rPMX9awvy1I42b12G39ifJjgBrLTRqrY/edit#slide=id.g44bb656f4b_0_24), and [networking tips and finding events](https://docs.google.com/presentation/u/1/d/1HgatbVpG_d0QqUACg59i3qhMUSK0o5IckLR3UH_hOhs/edit?usp=drive_web&ouid=102349547791146369642)
 
 These slides will give you:
 
 - template messages
 - tips to connect with anyone
 - hacks to find email addresses
+- tips to connect at networking events
 
 # Do it! Find contacts
 
 > [action]
 >
-> Now, use the tips above to connect with 2-3 first and second degree connections at companies you want to eventually apply to.
+> Now, use the tips above to connect with 2-3 first and second degree connections at companies you want to eventually apply to. Alternatively go to one of the many [meet-ups happening WEEKLY](https://www.meetup.com/find/events/?allMeetups=false&keywords=technology&radius=2&userFreeform=San+Francisco%2C+CA&mcId=z94101&mcName=San+Francisco%2C+CA&eventFilter=mysugg) in San Francisco and connect with an engineer there.
 >
 > Mark your completion in the course tracker.
 
